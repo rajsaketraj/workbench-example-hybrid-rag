@@ -1,16 +1,16 @@
-**Project Abstract: Exploring the Capabilities and Applications of Meta's Llama 3.1 405B Instruct Model**
+                                                  #Project Abstract: Exploring the Capabilities and Applications of Meta's Llama 3.1 405B Instruct Model
 
-**Submitted to KL University as a part of AIML Project Submission*****
-**By Praneeth Kilari, Gayathri Vemali, and Saket Raj**
-_Roll Numbers:- 2320030056, 2320030385, _
-
+                                                               **Submitted to KL University as a part of AIML Project Submission*****
+                                                                        **By Praneeth Kilari, Gayathri Vemali, and Saket Raj**
+                                                                               _Roll Numbers:- 2320030056, 2320030385, _
+**
 This project investigates the groundbreaking Llama 3.1 405B Instruct model, recently unveiled by Meta as the largest and most capable open-source AI model to date1. With 405 billion parameters, this model represents a significant leap in the field of natural language processing and artificial intelligence2.
 Our research focuses on three key aspects of Llama 3.1 405B Instruct:
 Model Architecture and Performance: We analyze the model's architecture, including its decoder-only transformer design and the iterative post-training process involving supervised fine-tuning and direct preference optimization1. We evaluate its performance across various benchmarks, comparing it to other leading AI models like GPT-4 and Claude 3.5 Sonnet.
 Multilingual Capabilities: We explore the model's proficiency in handling multiple languages, assessing its potential for cross-lingual applications and its impact on global AI accessibility3.
 Practical Applications: We investigate the model's use cases, including long-form text summarization, multilingual conversational agents, and coding assistance1. Additionally, we examine its potential for synthetic data generation and model distillation, which could revolutionize the development of smaller, more efficient AI models2.
 Our methodology involves hands-on experimentation with the model using the Hugging Face platform, where Llama 3.1 405B Instruct is available4. We conduct a series of tests to evaluate its instruction-following capabilities, safety features, and performance in various domains such as general knowledge, mathematics, and tool use3.
-This project aims to contribute to the understanding of large language models and their potential impact on various industries. By leveraging the open-source nature of Llama 3.1 405B Instruct, we hope to provide insights into its capabilities and limitations, paving the way for future research and applications in the field of artificial intelligence.
+This project aims to contribute to the understanding of large language models and their potential impact on various industries. By leveraging the open-source nature of Llama 3.1 405B Instruct, we hope to provide insights into its capabilities and limitations, paving the way for future research and applications in the field of artificial intelligence.**
 
 # Table of Contents
 
