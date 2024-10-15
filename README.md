@@ -1,4 +1,4 @@
-                                                  #Project Abstract: Exploring the Capabilities and Applications of Meta's Llama 3.1 405B Instruct Model
+*Project Abstract: Exploring the Capabilities and Applications of Meta's Llama 3.1 405B Instruct Model*
 
                                                                **Submitted to KL University as a part of AIML Project Submission*****
                                                                         **By Praneeth Kilari, Gayathri Vemali, and Saket Raj**
