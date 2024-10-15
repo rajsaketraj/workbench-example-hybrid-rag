@@ -1,7 +1,8 @@
-Project Abstract: Exploring the Capabilities and Applications of Meta's Llama 3.1 405B Instruct Model
-Submitted to KL University
-By Praneeth Kilari, Gayathri Vemali, and Saket Raj
-Roll Numbers:- 2320030056, 2320030385, 
+**Project Abstract: Exploring the Capabilities and Applications of Meta's Llama 3.1 405B Instruct Model**
+
+**Submitted to KL University as a part of AIML Project Submission*****
+**By Praneeth Kilari, Gayathri Vemali, and Saket Raj**
+_Roll Numbers:- 2320030056, 2320030385, _
 
 This project investigates the groundbreaking Llama 3.1 405B Instruct model, recently unveiled by Meta as the largest and most capable open-source AI model to date1. With 405 billion parameters, this model represents a significant leap in the field of natural language processing and artificial intelligence2.
 Our research focuses on three key aspects of Llama 3.1 405B Instruct:
